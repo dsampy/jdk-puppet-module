@@ -1,3 +1,3 @@
 class jdk {
-  include jdk::install, jdk::config
+  include jdk::params, jdk::install, jdk::config
 }
